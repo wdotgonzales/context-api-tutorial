@@ -16,6 +16,7 @@ This project demonstrates how to manage user state using the **React Context API
 
 ## Folder Structure
 
+```bash
 ├── node_modules
 ├── public
 ├── src
