@@ -37,7 +37,7 @@ This project demonstrates how to manage user state using the **React Context API
 ├── package.json
 ├── README.md
 ├── vite.config.js
-
+```
 
 ## Components Overview
 
